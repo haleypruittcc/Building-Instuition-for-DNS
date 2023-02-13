@@ -43,7 +43,7 @@ Active Directory is a software bulit and maintained by Microsoft that centrally 
 - Attempt to ping "mainframe" again.
    - Observe the address of the new record is showing up.
 
-<h3>Step 3: CNAME Record Exercise<h3>
+<h3>Step 3:CNAME Record Exercrise  </h3>
 
 <p align="center">
 <img src="" height="70%" width="70%" alt="Azure Free Account"/> <img src="" height="70%" width="70%" alt="Azure Free Services"/>

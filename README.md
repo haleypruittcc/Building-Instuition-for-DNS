@@ -25,6 +25,7 @@ Active Directory is a software bulit and maintained by Microsoft that centrally 
 - From Client-1 try ping "mainframe" notice that it fails.
 - Nslookup "mainframe" notice that it fails (no DNS record)
 - Create a DNS A- record on DC-1 for "mainframe" and have it point to DC-1's Private IP address
+   - 
 - Go back to Clinet-1 and try to ping it. Observe that it works.
 
 

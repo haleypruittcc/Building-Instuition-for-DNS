@@ -79,5 +79,5 @@ Active Directory is a software bulit and maintained by Microsoft that centrally 
     - On Client-1, nslookup "search" observe the results of the CNAME record.
 
 
-
+🎉Congratulation! You are done Building Instuition for DNS .!🎉 Next tutorial ,Network Files shares and permisssion by clicking [here](https://github.com/haleypruittcc/NetworkFilesSharesandPermission)
 

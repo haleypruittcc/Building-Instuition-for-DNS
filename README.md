@@ -18,8 +18,14 @@ Active Directory is a software bulit and maintained by Microsoft that centrally 
 
 
 <p align="center">
-<img src="" height="80%" width="80%" alt="Azure Free Account"/>
+<img src="https://i.imgur.com/PpaJXaF.png" height="80%" width="80%" alt="Azure Free Account"/>
   
+ <p align="center">
+<img src="https://i.imgur.com/miMxB2H.png" height="80%" width="80%" alt="Azure Free Account"/>
+
+<p align="center">
+<img src="https://i.imgur.com/l0Y5qiJ.png" height="80%" width="80%" alt="Azure Free Account"/>
+
 - Connect/log into DC-1 as your domain admin account you create eariler (mydomain.com\haley_admin) 
 - Connect/log into CLient-1 as a admin (mydomain\haley_admin).
 - From Client-1 try ping "mainframe" notice that it fails.
@@ -33,7 +39,19 @@ Active Directory is a software bulit and maintained by Microsoft that centrally 
 <h3>Step 2: Local DNS Cache Exercise  </h3>
 
 <p align="center">
-<img src="https://i.imgur.com/5xs5hdE.png" height="70%" width="70%" alt="Azure Free Account"/> 
+<img src="https://i.imgur.com/bVwhw0A.png" height="70%" width="70%" alt="Azure Free Account"/> 
+</p>
+
+<p align="center">
+<img src="https://i.imgur.com/oJd7QDs.png" height="70%" width="70%" alt="Azure Free Account"/> 
+</p>
+
+<p align="center">
+<img src="https://i.imgur.com/ke4FgYn.png" height="70%" width="70%" alt="Azure Free Account"/> 
+</p>
+
+<p align="center">
+<img src="https://i.imgur.com/3uxWP0o.png" height="70%" width="70%" alt="Azure Free Account"/> 
 </p>
 
 - Go back to DC-1 and change mainframe's record address to 8.8.8.8
@@ -48,7 +66,11 @@ Active Directory is a software bulit and maintained by Microsoft that centrally 
 <h3>Step 3:CNAME Record Exercrise  </h3>
 
 <p align="center">
-<img src="" height="70%" width="70%" alt="Azure Free Account"/> <img src="" height="70%" width="70%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/NZphUuj.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/khVaiOJ.png" height="70%" width="70%" alt="Azure Free Services"/>
+</p>
+
+<p align="center">
+<img src="https://i.imgur.com/88YbXLG.png" height="70%" width="70%" alt="Azure Free Account"/> 
 </p>
 
 - Go back to DC-1 and create a CNAME record that points the host "search" to "www.google.com".
